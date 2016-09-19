@@ -1,0 +1,727 @@
+############################### Test Dyna-Q #############################################
+--------------------
+      O       O   X
+  O   O   O   O    
+  O   O   O   O   O
+  O   O   O   O    
+  O   O   O   O O  
+  O   O   O   O    
+  O   O   O   O   O
+  O   O   O   O    
+  O   O   O   O O  
+* O       O        
+--------------------
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   475   iteration:  0 iteration time:  0.677005052567
+
+--------------------
+. . . O . . . O   *
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   75   iteration:  1 iteration time:  0.104367017746
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   62   iteration:  2 iteration time:  0.0866408348083
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   60   iteration:  3 iteration time:  0.0828719139099
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  4 iteration time:  0.0796649456024
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  5 iteration time:  0.079705953598
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  6 iteration time:  0.0790212154388
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  7 iteration time:  0.078663110733
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  8 iteration time:  0.0802910327911
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  9 iteration time:  0.0792429447174
+
+--------------------
+. . . O . . . O   *
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  10 iteration time:  0.081699848175
+
+--------------------
+. . . O . . . O   *
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  11 iteration time:  0.0819089412689
+
+--------------------
+. . . O . . . O   *
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  12 iteration time:  0.0805008411407
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  13 iteration time:  0.0812971591949
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  14 iteration time:  0.0818247795105
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  15 iteration time:  0.0820779800415
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  16 iteration time:  0.0814158916473
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  17 iteration time:  0.0827441215515
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  18 iteration time:  0.0835151672363
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  19 iteration time:  0.0815861225128
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  20 iteration time:  0.0814270973206
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  21 iteration time:  0.0831642150879
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  22 iteration time:  0.0816209316254
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  23 iteration time:  0.0818181037903
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  24 iteration time:  0.0834989547729
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  25 iteration time:  0.0832660198212
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  26 iteration time:  0.0838489532471
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  27 iteration time:  0.0801138877869
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  28 iteration time:  0.082044839859
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  29 iteration time:  0.0792999267578
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  30 iteration time:  0.0817029476166
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  31 iteration time:  0.0831611156464
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  32 iteration time:  0.0834238529205
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  33 iteration time:  0.081906080246
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  34 iteration time:  0.0817749500275
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  35 iteration time:  0.0812668800354
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  36 iteration time:  0.0820429325104
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  37 iteration time:  0.0809688568115
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  38 iteration time:  0.0814349651337
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  39 iteration time:  0.0814790725708
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  40 iteration time:  0.0838651657104
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  41 iteration time:  0.0834541320801
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  42 iteration time:  0.0834639072418
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  43 iteration time:  0.0834410190582
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  44 iteration time:  0.0820291042328
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  45 iteration time:  0.0806579589844
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  46 iteration time:  0.0794410705566
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  47 iteration time:  0.0804438591003
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  48 iteration time:  0.0822219848633
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+#steps:   58   iteration:  49 iteration time:  0.0793840885162
+
+--------------------
+. . . O . . . O . *
+. O . O . O . O .  
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . O . O . O . .
+. O . O . O . O . O
+. O . O . O . O . .
+. O . O . O . O O .
+. O . . . O . . . .
+--------------------
+testworlds/world03.csv
+#steps:   58   time:  4.70429086685

@@ -1,0 +1,16 @@
+One does not simply think up a strategy, here we go
+itr:  1   portval:  0.5927
+itr:  2   portval:  1.8327
+itr:  3   portval:  1.3946
+itr:  4   portval:  1.958
+itr:  5   portval:  2.3681
+itr:  6   portval:  2.3133
+itr:  7   portval:  2.5732
+itr:  8   portval:  2.5187
+itr:  9   portval:  2.5658
+itr:  10   portval:  2.584
+itr:  11   portval:  2.6627
+itr:  12   portval:  2.6896
+itr:  13   portval:  2.6432
+itr:  14   portval:  2.6881
+itr:  15   portval:  2.6881
