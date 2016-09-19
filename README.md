@@ -1,2 +1,3 @@
-This repository contains code projects for class CS7646--Machine Learning for Trading
+# CS7646: Machine Learning for Trading
+Course projects/assignments for class CS7646--Machine Learning for Trading
 
